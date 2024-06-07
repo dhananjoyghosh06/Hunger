@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+@layer base {
+    h1{
+        font-family:"Madimi One", sans-serif;
+        font-optical-sizing: auto;
+       font-weight: 700;
+       font-style: bold;
+       font-size: 27px;
+    }
+    a{
+        font-family:"Madimi One", sans-serif;
+        font-optical-sizing: auto;
+       font-weight: 500;
+       font-style: bold;
+       font-size: 19px;
+       color:rgb(252, 128, 25) ;
+       font:bold,
+    }
+    p{
+        font-family:"Madimi One", sans-serif; 
+        font-weight: 500;
+    }
+    
+}

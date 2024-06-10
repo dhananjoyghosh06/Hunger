@@ -2,9 +2,13 @@ Intro:
 It is a Fullstack M.E.R.N food ordering delivery system web application 
 
 TECH STACK : 
+
 Frontend : HTML5, CSS (TAILWIND), JAVASCRIPT, REACT.JS, Bootsrap
+
 Backend : JAVASCRIPT, NODE.JS, EXPRESS.JS
+
 Database : MongoDB
+
 Others : Cloudinary, Multer, React-icons, Redux-toolkit, React-router-dom, Twillo 
 
 Description :
